@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmmoud</h1>
-- 🌱 I’m currently learning **Automation**
 
+- 🌱 I’m currently learning **Automation**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <h3 align="left">Connect with me:</h3>
