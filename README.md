@@ -7,8 +7,6 @@
 <p align="left">
 <a href="https://twitter.com/qursaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qursaan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/qursaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="qursaan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/qursaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="qursaan" height="30" width="40" /></a>
-<a href="https://instagram.com/qursaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qursaan" height="30" width="40" /></a>
 <a href="https://medium.com/@qursaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@qursaan" height="30" width="40" /></a>
 </p>
 
