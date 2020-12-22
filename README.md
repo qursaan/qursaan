@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mahmmoud</h1>
-
-- 🌱 I’m currently learning **Automation**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qursaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qursaan" height="30" width="40" /></a>
