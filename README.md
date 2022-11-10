@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmmoud</h1>
+
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qursaan&count_private=true&theme=vue&show_icons=true)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qursaan&langs_count=8&theme=vue&layout=compact)]()
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qursaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qursaan" height="30" width="40" /></a>
