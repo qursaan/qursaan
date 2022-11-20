@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mahmmoud</h1>
-
-<!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qursaan&count_private=true&theme=vue&show_icons=true)]()
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qursaan&langs_count=8&theme=vue&layout=compact)]()
--->
+# Hi 👋, I'm Mahmmoud
 
 <p align="left"> <a href="https://twitter.com/qursaan" target="blank"><img src="https://img.shields.io/twitter/follow/qursaan?logo=twitter&style=for-the-badge" alt="qursaan" /></a> </p>
 
+## 👀 I’m interested in ...
+* Web Development 
+* App Development
+* Game Development
+
+
+## 📫 Connect with me ...
 <!-- for more icons https://raw.githubusercontent.com/devicons/devicon/master/icons/ -->
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qursaan" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/twitter.svg" alt="twitter" height="30" width="40" />
@@ -22,6 +23,10 @@
 </p>
 
 Some automatically generated stats:
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qursaan&count_private=true&theme=vue&show_icons=true)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qursaan&langs_count=8&theme=vue&layout=compact)]()
+-->
 <!-- ![Qursaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qursaan&show_icons=true&theme=radical)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qursaan&theme=dracula&layout=compact)](https://github.com/qursaan/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qursaan&theme=dracula" alt="qursaan" /></p>
