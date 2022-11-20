@@ -21,6 +21,7 @@
   </a>
 </p>
 
+Some automatically generated stats:
 <!-- ![Qursaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qursaan&show_icons=true&theme=radical)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qursaan&theme=dracula&layout=compact)](https://github.com/qursaan/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qursaan&theme=dracula" alt="qursaan" /></p>
