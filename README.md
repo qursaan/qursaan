@@ -21,14 +21,13 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/medium.svg" alt="@qursaan" height="30" width="40" />
   </a>
 </p>
-
-Some automatically generated stats:
 <!--
+Some automatically generated stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qursaan&count_private=true&theme=vue&show_icons=true)]()
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qursaan&langs_count=8&theme=vue&layout=compact)]()
 -->
 <!-- ![Qursaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qursaan&show_icons=true&theme=radical)-->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qursaan&theme=dracula&layout=compact)](https://github.com/qursaan/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qursaan&theme=dracula&layout=compact)](https://github.com/qursaan/github-readme-stats) 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qursaan&theme=dracula" alt="qursaan" /></p>
 -->
 <!--h3 align="left">Languages and Tools:</h3>
