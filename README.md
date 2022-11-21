@@ -3,9 +3,9 @@
 <p align="left"> <a href="https://twitter.com/qursaan" target="blank"><img src="https://img.shields.io/twitter/follow/qursaan?logo=twitter&style=for-the-badge" alt="qursaan" /></a> </p>
 
 ## 👀 I’m interested in ...
-* Web Development 
-* App Development
-* Game Development
+* Algorithms 
+* Machine Learning 
+* Game Development 
 
 
 ## 📫 Connect with me ...
