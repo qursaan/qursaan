@@ -4,7 +4,8 @@
 
 ## 👀 I’m interested in ...
 * Algorithms 
-* Machine Learning 
+* Machine Learning
+* Natural Language Processing
 * Game Development 
 
 
