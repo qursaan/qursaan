@@ -8,9 +8,9 @@
 * Natural Language Processing
 * Game Development 
 
-
+<!--
 ## 📫 Connect with me ...
-<!-- for more icons https://raw.githubusercontent.com/devicons/devicon/master/icons/ -->
+<!-- for more icons https://raw.githubusercontent.com/devicons/devicon/master/icons/ -->  <!--
 <p align="left">
 <a href="https://twitter.com/qursaan" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/twitter.svg" alt="twitter" height="30" width="40" />
@@ -21,7 +21,7 @@
 <a href="https://medium.com/@qursaan" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/medium.svg" alt="@qursaan" height="30" width="40" />
   </a>
-</p>
+</p> -->
 <!--
 Some automatically generated stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qursaan&count_private=true&theme=vue&show_icons=true)]()
