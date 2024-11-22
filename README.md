@@ -19,7 +19,6 @@ I am currently working on:
 * Researching advanced techniques in natural language processing for enterprise applications.  
 * Creating open-source tools that enhance R&D capabilities in AI and ML.
 
----
 <!--
 ## 📫 Connect with me ...
 <!-- for more icons https://raw.githubusercontent.com/devicons/devicon/master/icons/ -->  <!--
